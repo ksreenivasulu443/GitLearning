@@ -1,0 +1,40 @@
+#master/main - Restricted branch - we will use this branch to deploy code to production
+#Release branch1 - Customer pipeline ( 25 tables) - team1
+#Release branch2 - transaction pipeline ( 40 tables) -
+
+
+# Release 1 :
+ Release_customer -->
+
+ feature_sprint1
+ (10 tables)
+
+ feature_sprint1_dev1_US1_2_3
+
+ feature_sprint1_dev2__4_5_6
+
+ feature_sprint1_dev2_7_8_9
+
+ feature_sprint1_qa1_1_2_3_4
+ feature_sprint1_qa2_5_6_7_8_9
+
+
+
+
+
+
+
+
+
+
+
+
+ sprint1 : 9
+
+ 9 different user stories
+
+ 3 developers ( 3 user stories )
+ 2 testers( 4 Qa1 , 5 qa2 )
+
+
+
